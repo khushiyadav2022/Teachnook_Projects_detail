@@ -14,7 +14,7 @@ The project typically involves the following steps:
 - Data Collection: Collecting data from various sources such as job portals, company websites, and social media platforms.<br>
 - Data Cleaning and Preparation: Cleaning the collected data and preparing it for analysis by handling missing values, outliers, and transforming the data as required.<br>
 - Exploratory Data Analysis (EDA): Analyzing the data to gain insights and understanding of the relationships between the features and the target variable.<br>
-[**Notebook**](https://github.com/khushiyadav2022/teachnook_assignments/blob/1df1a579bd515de4755666aa5e6214f04d92fad3/DS_Salaryprediction.ipynbhttps://github.com/khushiyadav2022/Teachnook_Projects_detail/blob/3bd89881434296d8b78818b2f54f5c5168a43627/data-scientist-salary-prediction.ipynb)
+[**Notebook**](https://github.com/khushiyadav2022/Teachnook_Projects_detail/blob/11ac31f7a812b9f40d8d5024f89b494cf0bd20db/data-scientist-salary-prediction.ipynb)
 
 **Potato price forecasting**<br>
 Governments use historical data, market trends, and expert analysis to forecast potato prices. They collect data on potato production, consumption, imports, exports, and prices over time, and monitor factors that can affect potato prices, such as weather conditions and transportation costs. They develop models using statistical techniques to predict future potato prices, with the goal of providing accurate information to stakeholders in the potato industry.<br>
